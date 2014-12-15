@@ -48,7 +48,7 @@ def runField(mSt, creaturesList):
 
     
     # set up debug text
-    debug = True
+    debug = False
     currentFPS = 0
     BASICFONT = pygame.font.SysFont(None, 25)
 
