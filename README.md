@@ -12,15 +12,25 @@ The game depicts an elephant pen with two elephants. Surus lives int he blue cor
 Click and drag the mouse to force the elephants to follow the cursor. They can be released from mouse control using either the panel button or the E key.
 
 Controls:
+
 Left click: control Surus
+
 Right click: control Abul
+
 Scroll up or down: place 1 food
+
 Middle click: place 500 food
+
 e: Release elephants from mouse control
+
 d: see debug text and pathfinding grid view
+
 a: slow-mo mode (also for debugging)
+
 f: flip food siwtch
+
 q: release elephants from mouse control
+
 r: reset elephant position to their houses
 
 =========
